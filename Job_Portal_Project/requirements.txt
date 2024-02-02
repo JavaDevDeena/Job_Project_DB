@@ -1,0 +1,10 @@
+asgiref==3.7.2 # ASGI is a specification for asynchronous web servers, and asgiref provides the basic interface and helper functions for building ASGI applications.
+bcrypt==4.1.2 # A password-hashing library, commonly used for securely storing user passwords.
+Django==5.0.1 #  A high-level web framework for building web applications using Python. It follows the MVC (Model-View-Controller) architectural pattern.
+django-cors-headers==4.3.1 # A Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS).
+mysqlclient==2.2.1 # MySQL database connector for Python. It allows Django to interact with MySQL databases.
+sqlparse==0.4.4 # A SQL parser for Python. It can be used for formatting, parsing, and analyzing SQL statements.
+tzdata==2023.4 # Time zone data. It provides the latest time zone database for accurate time zone conversions in applications.
+djangorestframework==3.14.0 # A powerful and flexible toolkit for building Web APIs in Django. It simplifies the process of building APIs and handling requests and responses.
+pytest==6.2.4 # pytest is a testing framework for Python that allows for simple unit tests as well as complex functional testing.
+pytest-django==4.4.0 
